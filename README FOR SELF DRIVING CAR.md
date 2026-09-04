@@ -22,13 +22,13 @@ HUMAN LIKE SELF DRIVING CAR AL (PROLOG)
 The environment is defined by a set of dynamic facts, while the car's behavior is governed by Prolog rules. The core engine continuously queries the best `action/1` based on the current state of the road. 
 
 
-## 🛠️ Technologies
+##  Technologies
 
 - **Language**: Prolog (SWI-Prolog recommended)
 - **Simulation Style**: Text-based / Console visualization
 - **Paradigm**: Declarative Logic Programming
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Install SWI-Prolog
 - **Windows**: Download from [SWI-Prolog website](https://www.swi-prolog.org/download.html)
